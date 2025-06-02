@@ -1,4 +1,4 @@
-services:
+services: gastro-school-bot
   - type: web
     name: gastro-school-bot
     runtime: python
